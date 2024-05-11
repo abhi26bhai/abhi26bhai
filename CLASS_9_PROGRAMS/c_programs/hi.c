@@ -1,10 +1,11 @@
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
-    for (int i =0; i<=50; i = i++)
+    for ( int i = 1; i < 10; i++)
     {
-    printf("I love you\n");
+        printf("I LOVE NEPAL\n");
     }
+    
     
     return 0;
 }
